@@ -104,7 +104,30 @@ The next set of properties are about the individual flex-items, or the li’s in
 
 ## Responsive Image & Picture Element
 
+<img width="1057" alt="image" src="https://user-images.githubusercontent.com/85268263/157148177-1c420c20-4c03-4ca2-a8ab-92d9f3acaaa6.png">
 
+<img width="834" alt="image" src="https://user-images.githubusercontent.com/85268263/157149746-91e02c59-8a14-42f9-9191-e257f3a8d9a5.png">
+<img width="1090" alt="image" src="https://user-images.githubusercontent.com/85268263/157149900-806ffcb1-ad01-4164-8b02-02fe9f83863c.png">
+
+
+## Grid System
+
+Why Use Grid?
+- Built into CSS spesification (now a recommendaiton)
+- No "row" markup required.
+- Grid design to work in 2 dimensions.
+- Use flexbox and grid where they make the most sense.
+- Browser support:
+  - CSS grid supported by all major modern browser
+  - subgrid supported only by firefox
+
+Game to practice Grid Syntax: https://cssgridgarden.com
+
+
+
+Resource:
+- https://flexboxfroggy.com/
+- https://cssgridgarden.com
 
 
 
