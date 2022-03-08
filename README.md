@@ -102,6 +102,11 @@ The next set of properties are about the individual flex-items, or the li’s in
 - .flex2{ border: 2px dotted blue; flex: G S B; } G = flex-grow S = flex-shrink B = flex-basis This is the shorthand for combining flex-grow, flex-shrink, and flex-basis.
 
 
+## Responsive Image & Picture Element
+
+
+
+
 
 Resource:
 - https://flexboxfroggy.com/
